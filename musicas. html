@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Sou luna - Músicas</title>
+     </head>
+     <body>
+         <header>
+                 <h1>Sou luna</h1>
+                 <nav>
+                  <a href="index.html">Início</a>
+                  <a href="personagens.html">Personagens</a>
+                  <a href="músicas.html">Músicas</a>
+                  <a href="série.html">Série</a>
+                </nav>
+               </header>
+                          <main>
+                            <section>
+                            <h2>Músicas</h2>
+                            <p>
+                               a música é uma parte muito importante da série 
+                               <strong>Sou luna<strong>. As canções aparecem em diferentes momentos da história 
+                               </p>
+
+                               <article>
+                               <h3>🎵 Alas<h3>
+                             <p>Uma das músicas mais marcantes da série.</p>
+                              </article>
+
+                              <article>
+                              <h3>🎵 Valiente<h3>
+                              <p>Uma música presente na tilha sonora de Sou luna.</p>
+                              </article>
+                              
+                            <article>
+                            <h3>🎵 Eres<h3>
+                            <p>Uma das músicas relacionadas aos personagens da série.</p>
+                            </article>
+
+                            <article>
+                            <h3>🎵 Sobre ruedas<h3>
+                            <p>Uma música relacionada ao universo da patinação.</p>
+
+                  </section>
+                </main>
+                <footer>
+             <p>Contato: (17) 99888-1234 | contato@portaldesouluna.com.br</p>
+             <p>Site dos fãs, 206 - Centro, Votuporanga - SP</p>
+             <p>&copy; 2026 Portal de sou luna </p>
+              </footer>  
+         </body>
+         </html>
+                        
+                
+
