@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Sou luna - Personagens</title>
+            </head>
+
+            <body>
+                <header>
+                        <h1>Sou luna</h1>
+                        <nav>
+                           <a href="index.html">Início</a>
+                           <a href="personagens.html">Personagens</a>
+                           <a href="músicas.html">Músicas</a>
+                           <a href="série.html">Série</a>
+                        </nav>
+                         </header>
+
+                                 <main>
+                                        <section>
+                                          <h2>Personagens</h2>
+                                           <p>
+                                              Conheça agora os nossos personagens da série de Sou luna 
+                                          </p>
+                                              <table border="1">
+                                             <thead>
+                                           <tr>
+                                                 <th>Luna Valente</th>
+                                                 <p> 
+                                                    Luna é uma jovem apaixonada por patinação, músicas e seus amigos.
+                                                </p>      
+                                                 <th>Matteo Balsano</th>
+                                                 <p>
+                                                    Matteo é um dos personagens importantes da história e está ligado ao mundo da patinação 
+                                                  </p>          
+                                                 <th>NNina Simonetti</th>
+                                                 <p>
+                                                     Nina é nerd, gosta de ler livros de romance e amiga da luna 
+                                                 </p> 
+                                                 <th>Âmbar Smith</th>
+                                                 <p>
+                                                    Âmbar é rica, famosa, metida e tem duas amigas que se chama Delfi e Jasmim
+                                                </p>
+                                            </tr>
+                                           </tbody>
+                                          </table>
+                                           <a href=""https://www.disneyplus.com/"
+                                            target="_blank">
+                                                       Conheça a Disney
+                                                 </a>
+                                             </p>
+                                                <a href="arquivo.pdf" download>
+                                                 Baixar material Sou luna 
+                                                 </a>
+                                              <p>
+                                                </section>
+                                                    </main>
+                                                        <footer>
+                                                           <p>Contato: (17) 99888-1234 | contato@portaldesoulunafãs.com.br</p>
+                                                           <p>Site dos fãs, br 206 - Centro, Votuporanga - SP</p>
+                                                           <p>&copy; 2026 Portal de  Sou luna</p>
+                                                      </footer>
+                                                        
+                                                 
+                                            
+                                            
+                                             
+                                             
+
+                                                            
+                       
+                                                                                                               
+                                                                                                
+                               
+                                              
+                                              
+                                              
+
+                            
+            
+            
+     
